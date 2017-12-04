@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 #Stolen from https://www.sunfounder.com/learn/sensor-kit-v2-0-for-raspberry-pi-b-plus/lesson-26-ds18b20-temperature-sensor-sensor-kit-v2-0-for-b-plus.html
 #Logan Stoll added the LCD interface
+#upload provided by David Frame
 #----------------------------------------------------------------
 #	Note:
 #		ds18b20's data pin must be connected to pin7.
